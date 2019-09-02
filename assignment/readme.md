@@ -47,4 +47,4 @@ solution - https://www.kaggle.com/kashnitsky/a9-demo-time-series-analysis-soluti
 - Beating baseline in a competition, 
  Kaggle kernel - https://www.kaggle.com/kashnitsky/assignment-10-gradient-boosting-and-flight-delays
 
-
+Winning solutions of Kaggle competitions: - https://github.com/interviewBubble/Data-Science-Competitions
