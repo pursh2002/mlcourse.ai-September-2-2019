@@ -45,6 +45,6 @@ nbviewer, - https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/ju
 Kaggle Kernel, - https://www.kaggle.com/kashnitsky/assignment-9-time-series-analysis
 solution - https://www.kaggle.com/kashnitsky/a9-demo-time-series-analysis-solution
 - Beating baseline in a competition, 
-- Kaggle kernel - https://www.kaggle.com/kashnitsky/assignment-10-gradient-boosting-and-flight-delays
+ Kaggle kernel - https://www.kaggle.com/kashnitsky/assignment-10-gradient-boosting-and-flight-delays
 
 
