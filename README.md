@@ -5,6 +5,7 @@ Author: Arina Lopukhova (@erynn). Edited by Yury Kashnitskiy (@yorko) and Vadim 
 You can ask your questions in two special threads :arrow_down:  Vadim @vchulski.
 you can freely write to #mlcourse_ai  BUT please use threads :thread-please:
 https://github.com/Yorko/mlcourse.ai/issues
+https://github.com/Yorko/mlcourse.ai
 
 To follow the course schedule and all deadlines, calender : https://bit.ly/2HB9378
 
@@ -12,6 +13,7 @@ you watch lectures on your own, solve quizzes (mostly based on the material in a
 
 1st quiz will be published on September 9, 
 follow announcements in the #mlcourse_ai_news channel.
+
 
 ## Syllabus
 - Module 1. Exploratory Data Analysis, 1 assignment
@@ -51,5 +53,7 @@ https://bit.ly/2zY6Xe2
 
 Outroduction:( https://youtu.be/FrIW8ixKakw)(https://bit.ly/2s0sjD7)
 
+- kaggle repository --- https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/assignments_demo
 
-
+- docker https://docs.docker.com/get-started/
+- https://hub.docker.com/r/festline/mlcourse_ai
