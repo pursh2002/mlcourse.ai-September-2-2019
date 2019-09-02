@@ -2,7 +2,7 @@ Fall 2019 assignments
 
 1. Exploratory data analysis of Olympic games with Pandas, nbviewer. Deadline: 2019 September 15, 20:59 GMT
 
-nbviewer = https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2019/assignment1_pandas_olympic.ipynb
+- nbviewer = https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2019/assignment1_pandas_olympic.ipynb
 
 Demo assignments, just for practice
 
