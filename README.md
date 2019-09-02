@@ -22,32 +22,32 @@ follow announcements in the #mlcourse_ai_news channel.
 
 ## Navigating this site: https://mlcourse.ai
 
--on this page, you’ll find the main course content, see icons below
--lectures(https://mlcourse.ai/lectures)- video recordings of fall 2018 lectures
--prerequisites(https://mlcourse.ai/prerequisites) - what you need to join this course
--assignments(https://mlcourse.ai/assignments) - links to demo assignments
--tutorials(https://mlcourse.ai/tutorials) - tutorials written by course participants
--resources(https://mlcourse.ai/resources) - a list of all materials constituting the course
--rating(https://mlcourse.ai/rating) - current rating and top-performers of previous sessions
--FAQ(https://mlcourse.ai/faq) - Frequently Asked Questions
--contacts(https://mlcourse.ai/contacts) - how to reach the course team
--contrib (https://mlcourse.ai/contrib)- how you can help
+- on this page, you’ll find the main course content, see icons below
+- lectures(https://mlcourse.ai/lectures)- video recordings of fall 2018 lectures
+- prerequisites(https://mlcourse.ai/prerequisites) - what you need to join this course
+- assignments(https://mlcourse.ai/assignments) - links to demo assignments
+- tutorials(https://mlcourse.ai/tutorials) - tutorials written by course participants
+- resources(https://mlcourse.ai/resources) - a list of all materials constituting the course
+- rating(https://mlcourse.ai/rating) - current rating and top-performers of previous sessions
+- FAQ(https://mlcourse.ai/faq) - Frequently Asked Questions
+- contacts(https://mlcourse.ai/contacts) - how to reach the course team
+- contrib (https://mlcourse.ai/contrib)- how you can help
 
 ## This YouTube playlist contains fall 2018 video lectures. A couple more recordings will be added in fall 2019 session.
 https://bit.ly/2zY6Xe2
 
-Introduction - https://youtu.be/QKTuw4PNOsU, https://bit.ly/2NuadRV
+### Introduction - https://youtu.be/QKTuw4PNOsU, https://bit.ly/2NuadRV
 
 - Exploratory data analysis with Pandas - https://youtu.be/fwWCw_cE5aI
 - Visualization, main plots for EDA - https://www.youtube.com/watch?v=WNoQTNOME5g
--Decision trees - theory(https://youtu.be/H4XlBTPv5rQ) and practical(https://youtu.be/RrVYO6Td9Js) part
--Logistic regression - theoretical foundations(https://www.youtube.com/watch?v=l3jiw-N544s), practical(https://www.youtube.com/watch?v=7o0SWgY89i8) part (baselines in the “Alice” competition)
--Ensembles and Random Forest - part 1(https://www.youtube.com/watch?v=neXJL-AqI_c). Classification metrics - part 2(https://www.youtube.com/watch?v=aBOMYqGUlWQ). Example of a business task, predicting a customer payment - part 3
--Linear regression and regularization - theory(https://youtu.be/ne-MfRfYs_c), LASSO & Ridge, LTV prediction - practice(https://youtu.be/B8yIaIEMyIc)
--Unsupervised learning - Principal Component Analysis(https://youtu.be/-AswHf7h0I4) and Clustering(https://youtu.be/eVplCo-w4XE)
--Stochastic Gradient Descent for classification and regression - part 1(https://youtu.be/EUSXbdzaQE8), part 2 TBA
--Time series analysis with Python (ARIMA, Prophet) - video(https://youtu.be/_9lBwXnbOd8)
--Gradient boosting: basic ideas - part 1(https://youtu.be/g0ZOtzZqdqk), key ideas behind Xgboost, LightGBM, and CatBoost + practice - part 2(https://youtu.be/V5158Oug4W8)
+- Decision trees - theory(https://youtu.be/H4XlBTPv5rQ) and practical(https://youtu.be/RrVYO6Td9Js) part
+- Logistic regression - theoretical foundations(https://www.youtube.com/watch?v=l3jiw-N544s), practical(https://www.youtube.com/watch?v=7o0SWgY89i8) part (baselines in the “Alice” competition)
+- Ensembles and Random Forest - part 1(https://www.youtube.com/watch?v=neXJL-AqI_c). Classification metrics - part 2(https://www.youtube.com/watch?v=aBOMYqGUlWQ). Example of a business task, predicting a customer payment - part 3
+- Linear regression and regularization - theory(https://youtu.be/ne-MfRfYs_c), LASSO & Ridge, LTV prediction - practice(https://youtu.be/B8yIaIEMyIc)
+- Unsupervised learning - Principal Component Analysis(https://youtu.be/-AswHf7h0I4) and Clustering(https://youtu.be/eVplCo-w4XE)
+- Stochastic Gradient Descent for classification and regression - part 1(https://youtu.be/EUSXbdzaQE8), part 2 TBA
+- Time series analysis with Python (ARIMA, Prophet) - video(https://youtu.be/_9lBwXnbOd8)
+- Gradient boosting: basic ideas - part 1(https://youtu.be/g0ZOtzZqdqk), key ideas behind Xgboost, LightGBM, and CatBoost + practice - part 2(https://youtu.be/V5158Oug4W8)
 
 Outroduction:( https://youtu.be/FrIW8ixKakw)(https://bit.ly/2s0sjD7)
 
