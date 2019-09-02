@@ -8,8 +8,8 @@ Demo assignments, just for practice
 
 - Exploratory data analysis with Pandas, 
 nbviewer(https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), 
-Kaggle Kernel- (https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset), 
-solution- https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution
+Kaggle Kernel - (https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset), 
+solution - https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution
 - Analyzing cardiovascular disease data, 
 nbviewer-  https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment02_analyzing_cardiovascular_desease_data.ipynb?flush_cache=true
 Kaggle Kernel- https://www.kaggle.com/kashnitsky/assignment-2-analyzing-cardiovascular-data
