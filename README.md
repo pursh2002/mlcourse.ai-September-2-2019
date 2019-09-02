@@ -38,8 +38,8 @@ https://bit.ly/2zY6Xe2
 
 Introduction - https://youtu.be/QKTuw4PNOsU, https://bit.ly/2NuadRV
 
--Exploratory data analysis with Pandas - https://youtu.be/fwWCw_cE5aI
--Visualization, main plots for EDA - https://www.youtube.com/watch?v=WNoQTNOME5g
+- Exploratory data analysis with Pandas - https://youtu.be/fwWCw_cE5aI
+- Visualization, main plots for EDA - https://www.youtube.com/watch?v=WNoQTNOME5g
 -Decision trees - theory(https://youtu.be/H4XlBTPv5rQ) and practical(https://youtu.be/RrVYO6Td9Js) part
 -Logistic regression - theoretical foundations(https://www.youtube.com/watch?v=l3jiw-N544s), practical(https://www.youtube.com/watch?v=7o0SWgY89i8) part (baselines in the “Alice” competition)
 -Ensembles and Random Forest - part 1(https://www.youtube.com/watch?v=neXJL-AqI_c). Classification metrics - part 2(https://www.youtube.com/watch?v=aBOMYqGUlWQ). Example of a business task, predicting a customer payment - part 3
