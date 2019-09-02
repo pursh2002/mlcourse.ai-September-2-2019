@@ -28,7 +28,7 @@ sol - https://www.kaggle.com/kashnitsky/a4-demo-sarcasm-detection-with-logit-sol
 nbviewer, - https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment05_logit_rf_credit_scoring.ipynb?flush_cache=true
 Kaggle Kernel, - https://www.kaggle.com/kashnitsky/assignment-5-logit-and-rf-for-credit-scoring
 solution - https://www.kaggle.com/kashnitsky/a6-demo-regression-solution
-Exploring OLS, Lasso and Random Forest in a regression task, 
+- Exploring OLS, Lasso and Random Forest in a regression task, 
 nbviewer, - https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment06_regression_wine.ipynb?flush_cache=true
 Kaggle Kernel, - https://www.kaggle.com/kashnitsky/assignment-6-linear-models-and-rf-for-regression
 solution - https://www.kaggle.com/kashnitsky/a6-demo-regression-solution
@@ -36,7 +36,7 @@ Unsupervised learning,
 nbviewer, - https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning.ipynb?flush_cache=true
 Kaggle Kernel, - https://www.kaggle.com/kashnitsky/assignment-7-unupervised-learning
 solution, - https://www.kaggle.com/kashnitsky/a7-demo-unsupervised-learning-solution
-Implementing online regressor, 
+- Implementing online regressor, 
 nbviewer, - https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment08_implement_sgd_regressor.ipynb?flush_cache=true
 Kaggle Kernel, - https://www.kaggle.com/kashnitsky/assignment-8-implementing-online-regressor
 solution, - https://www.kaggle.com/kashnitsky/a8-demo-implementing-online-regressor-solution
