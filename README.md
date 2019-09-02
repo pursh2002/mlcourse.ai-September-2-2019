@@ -36,7 +36,7 @@ follow announcements in the #mlcourse_ai_news channel.
 ## This YouTube playlist contains fall 2018 video lectures. A couple more recordings will be added in fall 2019 session.
 https://bit.ly/2zY6Xe2
 
-### Introduction - https://youtu.be/QKTuw4PNOsU, https://bit.ly/2NuadRV
+### Introduction - video https://youtu.be/QKTuw4PNOsU, slideshttps://bit.ly/2NuadRV
 
 - Exploratory data analysis with Pandas - https://youtu.be/fwWCw_cE5aI
 - Visualization, main plots for EDA - https://www.youtube.com/watch?v=WNoQTNOME5g
