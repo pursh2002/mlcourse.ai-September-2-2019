@@ -4,6 +4,12 @@ Fall 2019 assignments
 
 - nbviewer = https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2019/assignment1_pandas_olympic.ipynb
 
+2. Trees, forests and boosting
+Quiz 1. Trees and forests https://bit.ly/2lLu3Qo. Deadline: September 27
+Part 1. Classification and regression trees, https://bit.ly/2m5hwHY. Deadline: October 6
+Part 2. Beating a baseline in a Kaggle competition, https://www.kaggle.com/kashnitsky/mlcourse-ai-fall-2019-catboost-starter starter. Deadline: October 6
+
+
 Demo assignments, just for practice
 
 - Exploratory data analysis with Pandas, 
