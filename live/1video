@@ -1,9 +1,10 @@
 https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX
 https://youtu.be/DrohHdQa8u8
+https://pbpython.com/excel-file-combine.html
 
 
 
-
+https://t.co/6akbxXG6SI?amp=1
 
 Note that the dates weren’t automatically parsed. In that case you would need to do as before:
 
@@ -24,3 +25,35 @@ https://github.com/GokuMohandas/practicalAI/tree/master/notebooks
 https://github.com/jdwittenauer/ipython-notebooks
 
 https://medium.com/@trekhleb/most-trending-jupyter-notebooks-of-december-on-github-c05529d04b40
+
+spreedsheet - https://github.com/AndreMaciel66/multiple-dynamic-spreadsheet/blob/master/read_unlike_spreadsheets.py
+
+How about skipping all the empty rows of a long csv where the row numbers are not known
+Actually - there is a more direct way! Looks like you can use the "skip_blank_lines" option on the read_csv function call
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+
+Two easy ways to reduce DataFrame memory usage:
+1. Only read in columns you need
+2. Use 'category' data type with categorical data.
+
+Example:
+df = http://pd.read_csv('file.csv', usecols=['A', 'C', 'D'], dtype={'D':'category'})
+Also if integer values are float64, convert dtype to int64, binaries to boolean
+
+
+Solution:
+1. Use glob() to list your files
+2. Use a generator expression to read files and concat() to combine them
+https://pbpython.com/excel-file-combine.html --- glob
+
+Combining data from multiple csv files to a single dataframe using
+https://nbviewer.jupyter.org/github/gbganalyst/data-consolidation-with-python/blob/master/data_consolidation.ipynb
+
+Neat! And if we are allowed to cheat with Dask 
+@dask_dev
+ :) it supports reading multiple files at once, then convert back to pd.DataFrame
+ https://pbs.twimg.com/media/D9hjj08WsAA6B2E?format=jpg&name=medium
+ 
+ 
+ import modin.pandas as pd -- faster 
+ https://modin.readthedocs.io/en/latest/architecture.html
