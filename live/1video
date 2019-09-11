@@ -8,7 +8,7 @@ https://youtu.be/DrohHdQa8u8
 Note that the dates weren’t automatically parsed. In that case you would need to do as before:
 
 In [169]: df = pd.read_csv('foo.csv', parse_dates=True)
-
+https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#reading-remote-files
 
 
 https://www.dataschool.io/python-pandas-tips-and-tricks/
