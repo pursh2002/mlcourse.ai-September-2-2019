@@ -1,0 +1,7 @@
+# group by key
+group = df.groupby('key')
+
+
+# get sum
+df_sum = group.sum()
+df_sum
