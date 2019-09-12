@@ -62,3 +62,6 @@ print(df.iloc[_])
 
 # Use `loc[]` to select column `'A'`
 print(df.loc[:,'_'])
+
+https://www.pecan.ai/resources/feature-engineering-for-machin-learning-pecan
+https://www.udig.com/feature-engineering-handling-missing-data
