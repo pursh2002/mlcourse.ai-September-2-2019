@@ -1,0 +1,56 @@
+https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be
+
+pd.read_csv('../../data/beauty.csv', sep=';')
+
+sep=';' --
+
+df['wages'].hist()
+df.hist(); for all your series object
+
+plt.figure(figsize=(12,13))
+df['looks'].unique()
+
+boolen indexing 
+
+def['wages'] > 40
+
+false 
+true
+
+(def['wages'] > 40).sum()
+
+subset the data 
+df[df["wages"] > 40]
+more condition
+df[df["wages"] > 40]& (df[df['female'] ==1)]
+
+
+apply funtion
+
+def gender((gender_id):
+  return 'female' if gender_id ==  1 else 'male'
+
+
+df['female'].apply(gender)
+
+
+lambda expression
+
+df['female'].apply(lambda gender_id: 'female' if gender_id == 1 else 'male').head()
+
+df["female"].map({0:'male', 1: 'female'}).head()
+
+groupby
+
+df[df['female'] == 0, 'wages'].median()
+
+for(gender_id, sub_dataframe) in df.groupby('female'):
+          print(gender_id)
+          print(sub_dataframe)
+          
+          print("median wage for {} are {}'.format('men' if gender_id == 0
+          else 'women'
+          sub_dataframe['wages'].median()))
+          
+   df.groupby('female')['wages'].median() #same infor
+https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/topic01_pandas_data_analysis/topic1_pandas_data_analysis.ipynb
