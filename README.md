@@ -1,3 +1,6 @@
+
+[](https://mlcourse.ai/images/ods_stickers.jpg)
+
 # mlcourse.ai- September 2, 2019. 
 mlcourse.ai is an open Machine Learning course by OpenDataScience.The course is designed to perfectly balance theory and practice. You can take part in several Kaggle Inclass competitions held during the course. 
 
