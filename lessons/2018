@@ -1,1 +1,140 @@
 https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX
+
+Here we discuss course logistics, what activities are there,  what preparation is needed, and how to start.
+
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+Slides - https://bit.ly/2NuadRV
+
+
+In the 1st lecture we get used to Pandas to perform preliminary data analysis.  
+
+Accompanying Jupyter notebook (as is) - https://goo.gl/oepSWW
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHUb repo - https://github.com/Yorko/mlcourse.ai
+
+
+Here we start with basics of Machine Learning, then supervised learning, and cover classification decision trees in detail. 
+
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHUb repo - https://github.com/Yorko/mlcourse.ai
+
+
+Here we use Sklearn to train, tune and visualize decision trees. 
+
+Accompanying notebook (messy, as is) - https://goo.gl/txp1EY
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHUb repo - https://github.com/Yorko/mlcourse.ai
+
+Here we discuss mathematical foundations of  Logistic regression, we stick to ML view this will also help to study neural nets.
+
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHUb repo - https://github.com/Yorko/mlcourse.ai
+
+In this part, we discuss the Alice competition, and beat simple benchmarks with logistic regression.
+
+Competition - https://bit.ly/2OEwlyo
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHUb repo - https://github.com/Yorko/mlcourse.ai
+notebook draft - https://bit.ly/318OsP9
+
+Here we discuss theoretical reasons for ensembles of algorithms working better than single ones. We discuss Random Forests in more detail.   
+
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHUb repo - https://github.com/Yorko/mlcourse.ai
+
+We discuss not only classification metrics but their choice and usage in real applications (see also lecture 5, part 3).  
+
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+This lecture is going to be unusual: we'll discuss a real business task of predicting user payments in a mobile app. We'll discuss how to choose a classification metric for this task, and train Random Forest and Logistic Regression to find paying customers
+
+Demo data - https://goo.gl/BmwNSM
+Notebook (as is) - https://goo.gl/5441U1
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+Here we cover linear regression from Machine Learning perspective. We also cover a fundamental ML technique called regularization. 
+
+Main site - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+In the second part we firstly take a look at Sklearn's implementations of LASSO an Ridge, then we address a real-world task of predicting customer's Life-Time Value (LTV).  
+
+Notebook on LASSO & Ridge - https://goo.gl/jwR6QA 
+Demo LTV data - https://goo.gl/N57883
+Notebook on LTV prediction (as is) - https://goo.gl/aJjTBx
+Main site - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+We start with a quick intro to unsupervised learning, then discuss Principal Component Analysis and its applications in visualization and dimensionality reduction.
+
+Notebooks - https://bit.ly/2TftLOl
+Main site - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+Here we overview the problem of clustering, why it's so different from supervised learning problems, how to select the number of clusters. We discuss main approaches to perform clustering: k-Means, hierarchical clustering, DBSCAN. Then, some applications with Sklearn. 
+
+Slides - https://goo.gl/ytgs5M
+Notebooks - https://bit.ly/2TftLOl
+Main site - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+Here we cover the main idea that makes it possible to efficiently train simple linear models with very large datasets. 
+We cover Stochastic Gradient Descent and its applications to classification and regression. Finally, we implement an SGDRegressor (A8 demo)
+
+Main site - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+Here we discuss foundations of the ARIMA forecasting model, which is accurate, useful for small time series prediction as well as it's important for understanding time series. We also briefly discuss the Facebook Prophet approach which is more suitable for scalable predictions. 
+
+Slides - https://www.slideshare.net/festline/t... (by Evgeniy Riabenko)
+ARIMA example - https://www.kaggle.com/kashnitsky/top...
+Main site - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+In this video, we cover fundamental ideas behind gradient boosting, the versatile high-performing machine learning algorithm. 
+
+Main site - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+In this part, we discuss key difference between Xgboost, LightGBM, and CatBoost. 
+
+Practice with logit, RF, and LightGBM - https://www.kaggle.com/kashnitsky/top...
+Main site - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+
+Some directions to choose when you have covered basics of Machine Learning: 
+- deep learning (cs231n) 
+- theory of ML 
+- more practice, Kaggle 
+- first job in Data Science 
+- pet projects 
+Some words on the fall 2018 session of mlcourse.ai (thanks to Kirill Vlasoff and Andrew Lukyanenko for some insights/slides)
+
+Slides - https://bit.ly/2s0sjD7
+Main site  - https://mlcourse.ai
+Kaggle Dataset - https://www.kaggle.com/kashnitsky/mlc...
+GitHub repo - https://github.com/Yorko/mlcourse.ai
+Patreon - https://www.patreon.com/ods_mlcourse (monthly support)
+Ko-Fi - https://ko-fi.com/mlcourse_ai (one-time support)
+
+https://www.youtube.com/watch?v=DrohHdQa8u8&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX&index=20
